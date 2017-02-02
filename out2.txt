@@ -1,0 +1,84 @@
+set of roots children
+1point -1
+1point -1
+1point -1
+1point -1
+1point -1
+1point -1
+2point +1
+2point +1
+2point +1
+2point +1
+2point +1
+2point +1
+0
+1point -1
+1point -1
+1point -1
+1point -2
+2point +5
+2point +4
+2point +4
+cankill -4
+1point -3
+1point -4
+2point +2
+2point +1
+2point +1
+1
+set of roots children
+1point -1
+1point -1
+1point -1
+1point -1
+1point -1
+1point -1
+2point +1
+2point +1
+2point +1
+2point +1
+2point +1
+2point +1
+0
+1point -1
+1point -1
+1point -1
+1point -2
+2point +5
+2point +4
+2point +4
+cankill -4
+1point -3
+1point -4
+2point +2
+2point +1
+2point +1
+1
+set of roots children
+1point -1
+1point -1
+1point -1
+1point -1
+1point -1
+1point -1
+2point +1
+2point +1
+2point +1
+2point +1
+2point +1
+2point +1
+0
+1point -1
+1point -1
+1point -1
+1point -2
+2point +5
+2point +4
+2point +4
+cankill -4
+1point -3
+1point -4
+2point +2
+2point +1
+2point +1
+1
